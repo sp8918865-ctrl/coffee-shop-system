@@ -1,0 +1,11 @@
+.env
+.env.backup
+/vendor/
+/node_modules/
+nbproject/private/
+.idea/
+.vscode/
+/build/
+/dist/
+*.jar
+*.log
